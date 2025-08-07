@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+requests
+PyMuPDF
+transformers
+torch
+sentence-transformers
+python-multipart
